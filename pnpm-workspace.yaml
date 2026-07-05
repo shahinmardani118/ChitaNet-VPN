@@ -1,0 +1,5 @@
+packages:
+  - "api-server"
+  - "chita-net"
+  - "mockup-sandbox"
+  - "packages/*"
